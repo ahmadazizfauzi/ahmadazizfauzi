@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmad Aziz Fauzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Assalamua'alaikum;Welcome+to+my+github;Excited+to+learn+new+things;Interested+in+WebDev+and+Back-End;Follow+me+for+more!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Assalamua'alaikum;Welcome+to+my+github;Excited+to+learn+about+coding+;and+don't+forget+mabar" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Windah" width="350" src="https://media.giphy.com/media/YrA5KuBKGKavuf5r34/giphy.gif">
