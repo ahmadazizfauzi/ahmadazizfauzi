@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmad Aziz Fauzi</h1>
-<h3 align="center">A college student who want to become Web Developer / Software Engn</h3>
+<h1 align="center">Hi, I'm Ahmad Aziz Fauzi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Assalamua'alaikum;Welcome+to+my+github;Excited+to+learn+new+things;Interested+in+WebDev+and+Back-End;Follow+me+for+more!" alt="Typing SVG" /></a>
+</p>
 
 - 💬 Ask me about **Esport (mobile legend) or about coding**
 
@@ -7,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmad fauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fauzi" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/ahmad-fauzi-4a1207268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fauzi" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmad_azizf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_azizf" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/raturu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raturu0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ahmad00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahmad00" height="30" width="40" /></a>
