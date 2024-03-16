@@ -23,7 +23,7 @@
 <p align="left">
 <a href="http://www.linkedin.com/in/ahmad-fauzi-4a1207268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fauzi" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmad_azizf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_azizf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raturu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raturu0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ahmadazizfauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmadazizfauzi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ahmad00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahmad00" height="30" width="40" /></a>
 </p>
 
@@ -36,14 +36,14 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raturu0&show_icons=true&locale=en&theme=tokyonight" alt="raturu0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadazizfauzi&show_icons=true&locale=en&theme=tokyonight" alt="ahmadazizfauzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raturu0&show_icons=true&locale=en&theme=tokyonight" alt="raturu0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadazizfauzi&show_icons=true&locale=en&theme=tokyonight" alt="ahmadazizfauzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raturu0&theme=tokyonight" alt="raturu0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadazizfauzi&theme=tokyonight" alt="ahmadazizfauzi" /></p>
 
 <h3 align="left">Activity Graph:</h3>
 
-[![raturu0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raturu0&theme=tokyo-night)](https://github.com/raturu0/github-readme-activity-graph)
+[![ahmadazizfauzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadazizfauzi&theme=tokyo-night)](https://github.com/ahmadazizfauzi/github-readme-activity-graph)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raturu0&label=Profile%20views&color=0e75b6&style=flat" alt="raturu0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadazizfauzi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadazizfauzi" /> </p>
