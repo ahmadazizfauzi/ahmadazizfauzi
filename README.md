@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Esport (mobile legend) or about coding**
+- 💬 Ask me about **Esport, coffee, or about coding**
 
 - 📫 How to reach me **aziz.fauzi1811@gmail.com**
   
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/raturu_0](https://linktr.ee/raturu_0)
 
-- ⚡ Fun fact **I'm pro player miya**
+- ⚡ Fun fact **I'm pro player Miya :v**
 
 
 <h3 align="left">Connect with me:</h3>
