@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aziz.fauzi1811@gmail.com**
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/raturu_0](https://linktr.ee/raturu_0)
 
