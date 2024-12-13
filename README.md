@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/raturu_0](https://linktr.ee/raturu_0)
+- 👨‍💻 U can see my full portofolio at [https://linktr.ee/raturu_0](https://linktr.ee/raturu_0)
 
 - ⚡ Fun fact **I'm pro player Miya :v**
 
