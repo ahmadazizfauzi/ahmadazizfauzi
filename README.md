@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **Mobile Development**
 
-- 👨‍💻 U can see my full portofolio at [https://linktr.ee/raturu_0](https://linktr.ee/raturu_0)
+- 👨‍💻 U can see my full portofolio at [https://linktr.ee/raturu_0](https://ahmadazizfauzi.vercel.app)
 
 - ⚡ Fun fact **I'm pro player Miya :v**
 
